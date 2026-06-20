@@ -1,4 +1,4 @@
-markdown# ✈️ TravelTech AI Insights Dashboard
+✈️ TravelTech AI Insights Dashboard
 
 > AI-powered intelligence dashboard tracking automation trends in travel tech industry
 
